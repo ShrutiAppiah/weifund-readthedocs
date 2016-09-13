@@ -1,1 +1,0 @@
-Search.setIndex({envversion:49,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,get:0,index:0,introduct:0,modul:0,page:0,search:0,start:0},titles:["Welcome to weifund-readthedocs&#8217;s documentation!"],titleterms:{document:0,indice:0,readthedoc:0,tabl:0,weifund:0,welcom:0}})
